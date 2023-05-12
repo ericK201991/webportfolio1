@@ -1,0 +1,25 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: #336589;
+}
+body {
+        background-image: url(./sample.jpg);
+        background-size: cover;
+        background-position: center;
+
+}
+.navbar-nav .nav-link {
+    color: black;
+}
+
+.card-aboutme {
+    width: 18rem;
+    height: 400px;
+}
+
+.card-projects {
+    width: 40rem;
+}
+h1 {
+    color: #336589;
+}
